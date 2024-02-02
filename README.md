@@ -8,6 +8,8 @@ Localizada em uma área urbana movimentada de Uberlândia, Minas Gerais, a empre
 como objetivo oferecer uma variedade de bicicletas de alta qualidade para ciclistas de todos os 
 níveis, desde iniciantes até ciclistas experientes e entusiastas.
 
+---
+
 Desafio:
 
 A BikeShop está crescendo rapidamente e enfrenta desafios no gerenciamento eficiente de seu 
@@ -15,6 +17,8 @@ inventário, clientes e vendas. Atualmente, eles estão registrando essas inform
 manualmente ou usando planilhas eletrônicas, o que se tornou ineficiente e propenso a erros. 
 Eles reconhecem a necessidade de um sistema de banco de dados centralizado que possa 
 armazenar e gerenciar essas informações de forma mais eficaz.
+
+---
 
 Objetivos do Sistema de Banco de Dados:
 
@@ -24,6 +28,8 @@ Manter um registro centralizado de clientes, incluindo informações como nome, 
 número de telefone, endereço de e-mail e histórico de compras.
 Registrar e acompanhar as vendas de bicicletas e acessórios, incluindo detalhes como data da 
 venda, produtos vendidos, preço de venda, método de pagamento e vendedor responsável.
+
+---
 
 ### Com base no estudo de caso acima, foi construido um mmodeleo conceitual para desenvolvimento de um banco de dados que atenda a Empresa BikeShop
 
